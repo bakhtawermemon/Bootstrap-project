@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+* {
+    font-family: "Josefin Sans", sans-serif;
+}
+
+
+.header-hero-section {
+    background-image: url(../images/Background\ Image.png);
+    height: 70vh;
+    background-size: cover;
+}
+
+.primary-bg {
+    background-color: #5956E9 !important;
+}
+
+.primary-color {
+    color: #5956E9 !important;
+}
+
+.feature-bg {
+    background-image: url(../images/feature-bg.png);
+    height: 115vh;
+    background-size: cover;
+}
+
+.how-to-use {
+    background-image: url(../images/Rectangle\ 15.png);
+    background-size: cover;
+    height: 400px;
+    padding: 35px 0px 0px 0px;
+}
+
+.video-img {
+    right: 23%;
+
+}
+
+.handle-height {
+    height: 650px;
+}
+
+.Our-happy-customers-b-g {
+    background-image: url(../images/Rectangle\ 14\ \(2\).png);
+    background-size: cover;
+}
+
+.width-handle {
+    width: 44%;
+    height: 369px;
+    margin-top: -345pX;
+    right: 28%;
+
+}
+
+.black-bg {
+    background-image: url(../images/Rectangle\ 35.png);
+    background-size: cover;
+    padding-top: 150px;
+    padding-bottom: 60px;
+}
+
+
+.cards {
+    margin-bottom: 180px;
+}
+
+.img {
+    margin-right: 250px;
+}
+
+.imgg {
+    margin-left: 190px;
+    margin-top: 30px;
+}
+
+
+button {
+    top: 3px;
+    right: 35px;
+    padding: 6px;
+}
